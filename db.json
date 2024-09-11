@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "id": "feca",
+      "caption": "Avangers 5",
+      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/518582d6-a147-4d5f-b09f-f041e6eb7388/dd2aksh-048068b1-a523-461d-8fe5-252656b686ac.jpg/v1/fill/w_1280,h_1898,q_75,strp/avengers_endgame_poster_w__quantum_suits_by_maxuelzombie_dd2aksh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxODU4MmQ2LWExNDctNGQ1Zi1iMDlmLWYwNDFlNmViNzM4OFwvZGQyYWtzaC0wNDgwNjhiMS1hNTIzLTQ2MWQtOGZlNS0yNTI2NTZiNjg2YWMuanBnIiwiaGVpZ2h0IjoiPD0xODk4Iiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNTE4NTgyZDYtYTE0Ny00ZDVmLWIwOWYtZjA0MWU2ZWI3Mzg4XC9tYXh1ZWx6b21iaWUtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.qCb7i8PMfQByEPP76L4kuFehtEp_ei9QLkWwkrNpNxY",
+      "link": "https://www.youtube.com/embed/TcMBFSGVi1c"
+    },
+    {
+      "id": "ee90",
+      "caption": "Deadpool 3",
+      "url": "https://images.hdqwalls.com/download/deadpool-and-wolverine-reckless-pursuit-ef-800x1280.jpg",
+      "link": "https://www.youtube.com/embed/73_1biulkYk"
+    },
+    {
+      "id": "8bf5",
+      "caption": "devara trailer",
+      "url": "https://th.bing.com/th/id/OIP.O6Dfm9HMcFl4f3fVfsnG_AAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/WAM3E91iKWM"
+    },
+    {
+      "id": "bea1",
+      "caption": "bigil trailer",
+      "url": "https://1.bp.blogspot.com/-USm6ZgcZ4mk/XZiaAstaGtI/AAAAAAAAAQw/ljHnRG_FS_YSh87o73iihvVswmN-tFh8wCLcBGAsYHQ/s1600/bigil_poster_by_kajandra_dd9zvlq-pre.jpg",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1eed",
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "923e",
+          "caption": "MoonKnight",
+          "url": "https://i.pinimg.com/originals/97/6f/18/976f189a4df2cbe3223e9beebe7a449b.jpg",
+          "link": "https://www.youtube.com/embed/x7Krla_UxRg"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "8eb0",
+      "caption": "leo trailer",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timestamp": "9/6/2024, 12:56:43 PM GMT+5:30"
+    },
+    {
+      "id": "bbb5",
+      "caption": "sonic",
+      "link": "https://www.youtube.com/embed/qSu6i2iFMO0",
+      "timestamp": "9/6/2024, 12:56:46 PM GMT+5:30"
+    }
+  ]
+}
